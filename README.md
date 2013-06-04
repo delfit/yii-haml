@@ -17,6 +17,7 @@ Based on forks of [phamlp](http://code.google.com/p/phamlp/) project.
 	}
 ],
 "require": {
+	"delfit/phamlp": "*",
 	"delfit/yii-haml": "*"
 }
 ```
