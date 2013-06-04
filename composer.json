@@ -1,0 +1,22 @@
+{
+	"name": "delfit/yii-haml",
+	"description": "HAML View Renderer for Yii Framework",
+	"version": "1.0",
+	
+	"type": "library",
+
+	"authors": [
+		{
+			"name": "Alex Slobodiskiy",
+			"email": "alex@delfit.com"
+		}
+	],
+	
+	"support": {
+		"source": "https://github.com/delfit/yii-haml"
+	},
+
+	"require": {
+		"delfit/phamlp": "*"
+	}
+}
