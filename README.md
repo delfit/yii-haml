@@ -11,14 +11,26 @@ Based on forks of [phamlp](http://code.google.com/p/phamlp/) project.
 
 ```json
 "repositories": [
-	{
-		"type":"composer",
-		"url": "http://packages.phundament.com"
-	}
+  {
+    "type":"composer",
+    "url": "http://packages.phundament.com"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "delfit/phamlp",
+        "version": "dev-master",
+        "source": {
+          "type": "git",
+          "url": "https://github.com/delfit/phamlp",
+          "reference": "master"
+        }
+      }
+    }
 ],
 "require": {
-	"delfit/phamlp": "*",
-	"delfit/yii-haml": "*"
+  "delfit/phamlp": "*",
+  "delfit/yii-haml": "*"
 }
 ```
 
