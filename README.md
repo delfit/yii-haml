@@ -1,7 +1,7 @@
 HAML View Renderer for Yii Framework
 ====================================
 
-*yii-haml* is extension for [Yii Framework](http://www.yiiframework.com/) that brings [HAML](http://wikipedia.org/wiki/Haml) power to your views. 
+*yii-haml* is extension for [Yii Framework 1.1.x](http://www.yiiframework.com/) that brings [HAML](http://wikipedia.org/wiki/Haml) power to your views. 
 Based on forks of [phamlp](http://code.google.com/p/phamlp/) project. 
 
 
